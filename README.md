@@ -38,10 +38,11 @@ Se você encontrar problemas usando o Dumper, por favor, crie uma issue neste re
 
 ## Créditos  
 - Luis
-- [aimardcr](https://github.com/aimardcr/MLBB-Metadata) decrypt `global-metadata.dat`
+- [**aimardcr**](https://github.com/aimardcr/MLBB-Metadata) — *decrypt `global-metadata.dat`*
 
+### Observações
+*Este projeto será descontinuado após este lançamento.*  
 
-**Após o lançamento, este projeto será descontinuado!**
 
 ## Licença
 
