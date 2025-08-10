@@ -1,6 +1,24 @@
 # Il2CppDumper
 
+[![Release](https://img.shields.io/github/v/release/Litch666/Il2cppDumper)](https://github.com/Litch666/Il2cppDumper/releases)
+[![Issues](https://img.shields.io/github/issues/Litch666/Il2cppDumper)](https://github.com/Litch666/Il2cppDumper/issues)
+[![License](https://img.shields.io/github/license/Litch666/Il2cppDumper)](https://github.com/Litch666/Il2cppDumper/blob/master/LICENSE)
+
 SDK Generator para jogos Unity.
+
+---
+
+## Sobre Unity3D e Il2Cpp
+
+<p align="center">
+  <img src="https://pt.m.wikipedia.org/wiki/Ficheiro:Unity_2021.svg" alt="Unity Logo" width="120" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/KhronosGroup/SPIRV-Tools/master/images/spirv-logo.png" alt="Il2Cpp Logo" width="120" />
+</p>
+
+*Unity3D é uma das engines mais usadas para desenvolvimento de jogos.*  
+*Il2Cpp é a tecnologia da Unity para converter C# em código nativo para melhor desempenho.*
+
+---
 
 ## Versões Compatíveis da global-metadata.dat
 - 5.6.4 ~ 2021.3.1
@@ -27,3 +45,8 @@ Se você encontrar problemas usando o Dumper, por favor, crie uma issue neste re
 - Luis
 
 **Após o lançamento, este projeto será descontinuado!**
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
