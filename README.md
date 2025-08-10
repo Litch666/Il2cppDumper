@@ -1,29 +1,29 @@
 # Il2CppDumper
 
-SDK Generator for Unity games.
+SDK Generator para jogos Unity.
 
-## Compatible versions
+## Versões Compatíveis da global-metadata.dat
 - 5.6.4 ~ 2021.3.1
 
-## How to use
-- Download the current version
-- `MT Manager Users`
--- `Using libil2cpp.so and global-metadata.dat`
+## Como usar  
+- Baixe a versão mais recente.  
+- Para usuários do MT Manager:  
+  - Utilize os arquivos `libil2cpp.so` e `global-metadata.dat`.  
 
-- Move the 'dumper.so & dumper.sh' to the directory "/data/user/0/bin.mt.plus/"
-    tap on dumper.sh -> press "EXECUTE"
-    ready, wait a few seconds.
-- has a system implemented to know all the failure and error information in a file generated in "/data/user/0/bin.mt.plus/home/Documents/dumper.log"
+- Mova os arquivos `dumper.so` e `dumper.sh` para o diretório `/data/user/0/bin.mt.plus/`.  
+- Toque no arquivo `dumper.sh` e pressione "EXECUTE".  
+- Aguarde alguns segundos até o processo ser concluído.  
 
-## Issues
-If you encounter any problems using Dumper, please create an issue in this repository.
-and explain the problem **[in detail](https://github.com/Litch666/Il2cppDumper/issues)**.
+- O executavel registra todas as falhas e erros em um arquivo gerado em `/data/user/0/bin.mt.plus/home/Documents/dumper.log`.
 
-- If your game is crashing during the dump, I recommend using another version!
+## Problemas  
+Se você encontrar problemas usando o Dumper, por favor, crie uma issue neste repositório e descreva o problema:  
+**[Issues](https://github.com/Litch666/Il2cppDumper/issues)**  
 
-- Se o seu jogo estiver travando durante o dump, vá para o diretório do jogo e encontrar a pasta "dumper" contém um arquivo chamado "dumper.log" tente identificar as falhas e error. #Issues
+- Se o jogo travar durante o dump, experimente usar outra versão do Dumper.  
+- Caso o jogo trave durante o dump, vá até o diretório do jogo e abra a pasta `dumper`, que contém o arquivo `dumper.log`. Tente identificar as falhas e erros por lá.
 
-  
-# Credits
+## Créditos  
 - Luis
-- After launch this project will be discontinued!
+
+**Após o lançamento, este projeto será descontinuado!**
