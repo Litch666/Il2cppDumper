@@ -1,24 +1,19 @@
-# Il2CppDumper
+# ILDumper (Il2Cpp)
 
 [![Release](https://img.shields.io/github/v/release/Litch666/Il2cppDumper)](https://github.com/Litch666/Il2cppDumper/releases)
 [![Issues](https://img.shields.io/github/issues/Litch666/Il2cppDumper)](https://github.com/Litch666/Il2cppDumper/issues)
 [![License](https://img.shields.io/github/license/Litch666/Il2cppDumper)](https://github.com/Litch666/Il2cppDumper/blob/master/LICENSE)
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg"
+      alt="Unity Logo"
+      alt="Logo"
+      height="250px"
+      align="right"
+    >
+</p
+
 SDK Generator para jogos Unity.
-
----
-
-## Sobre Unity3D e Il2Cpp
-
-<p align="center">
-  <img src="https://pt.m.wikipedia.org/wiki/Ficheiro:Unity_2021.svg" alt="Unity Logo" width="120" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/KhronosGroup/SPIRV-Tools/master/images/spirv-logo.png" alt="Il2Cpp Logo" width="120" />
-</p>
-
-*Unity3D é uma das engines mais usadas para desenvolvimento de jogos.*  
-*Il2Cpp é a tecnologia da Unity para converter C# em código nativo para melhor desempenho.*
-
----
 
 ## Versões Compatíveis da global-metadata.dat
 - 5.6.4 ~ 2021.3.1
@@ -32,7 +27,7 @@ SDK Generator para jogos Unity.
 - Toque no arquivo `dumper.sh` e pressione "EXECUTE".  
 - Aguarde alguns segundos até o processo ser concluído.  
 
-- O executavel registra todas as falhas e erros em um arquivo gerado em `/data/user/0/bin.mt.plus/home/Documents/dumper.log`.
+- O executável registra todas as falhas e erros em um arquivo gerado em `/data/user/0/bin.mt.plus/home/Documents/dumper.log`.
 
 ## Problemas  
 Se você encontrar problemas usando o Dumper, por favor, crie uma issue neste repositório e descreva o problema:  
