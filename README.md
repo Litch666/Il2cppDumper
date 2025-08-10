@@ -17,14 +17,13 @@ SDK Generator for Unity games.
 
 ## Issues
 If you encounter any problems using Dumper, please create an issue in this repository.
-and explain the problem **in detail**.
+and explain the problem **[in detail](https://github.com/Litch666/Il2cppDumper/issues)**.
 
 - If your game is crashing during the dump, I recommend using another version!
 
 - Se o seu jogo estiver travando durante o dump, vá para o diretório do jogo e encontrar a pasta "dumper" contém um arquivo chamado "dumper.log" tente identificar as falhas e error. #Issues
 
+  
 # Credits
 - Luis
-
-
 - After launch this project will be discontinued!
